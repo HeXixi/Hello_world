@@ -1,2 +1,2 @@
 word = "hello world" # commented by zhenghe
-print word
+print word + 'hexixi'
